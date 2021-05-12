@@ -14,4 +14,5 @@ lt --port 9443 --subdomain playground-on-actions-cli &
 
 # Set up command line access
 cd webcli
+chmod +x ./mako
 sudo ./mako mako -l::www
