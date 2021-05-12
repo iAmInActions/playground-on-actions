@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# DO NOT EDIT!!!
-# This script is for setting up ubuntu so it has the same features as playground. And for adding the web server.
+# This script is for setting up ubuntu so it has the same features as playground. And for adding the http web server.
 
 # Dependency set up
 sudo apt update
