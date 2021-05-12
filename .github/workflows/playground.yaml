@@ -2,7 +2,7 @@ name: Playground
 on:
   push:
     branches:
-      - trigger
+      - main
   schedule:
     - cron: '0 */6 * * *'
       
