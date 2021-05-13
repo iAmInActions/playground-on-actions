@@ -10,7 +10,7 @@ sudo apt install nodejs npm wget nano git
 sudo npm install -g localtunnel
 sudo lt --port 80 --subdomain playground-on-actions-80 &
 sudo lt --port 8080 --subdomain playground-on-actions-8080 &
-sudo lt --port 9443 --subdomain playground-on-actions-cli &
+sudo lt --port 9080 --subdomain playground-on-actions-cli &
 
 # Set up command line access
 cd webcli
