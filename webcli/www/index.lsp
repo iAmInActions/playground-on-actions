@@ -1,11 +1,3 @@
-<?lsp
-
-if app.SMQ.isSMQ(request) then
-   app.smq.connect(request)
-   return
-end
-
-?>
 <!doctype html>
 <html>
   <head>
